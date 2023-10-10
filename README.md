@@ -1,3 +1,3 @@
 # template
 
-## There is new text here
+## This text was changed in template
